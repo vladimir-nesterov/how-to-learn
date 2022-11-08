@@ -42,6 +42,11 @@
   align-self: center;
   z-index: 3;
 }
+.header__title_text_large {
+  line-height: 96px;
+  font-size: 102px;
+  font-weight: 600;
+}
 
 .header__subtitle {
   width: 388px;
@@ -49,6 +54,11 @@
   bottom: 30px;
   left: 64px;
   z-index: 3;
+}
+header__subtitle_text_middle {
+  line-height: 25px;
+  font-size: 18px;
+  font-weight: normal;
 }
 
 .header__main-illustration {
