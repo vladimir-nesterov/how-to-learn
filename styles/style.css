@@ -285,7 +285,6 @@ section {
   z-index: 1;
 }
 
-/* и элемента с модификатором вида ключ-значение */
 .table__cell_theme_dark {
   width: 200px;
   color: white;
@@ -309,4 +308,67 @@ section {
   position: absolute;
   right: -210px;
   top: 0;
+}
+
+/* Подвал сайта */
+
+.footer {
+  min-height: 350px;
+  background-color: #1f1f1f;
+  color: white;
+  padding-top: 60px;
+  padding-bottom: 40px;
+  display: flex;
+  justify-content: center;
+}
+
+.footer__columns {
+  width: 90%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer__column {
+  display: flex;
+  flex-direction: column;
+}
+
+.footer__column_content_copyright {
+  flex-basis: 711px;
+  justify-content: space-between;
+}
+
+.footer__author {
+ margin-top: 18px;
+ margin-bottom: 18px;
+ line-height: 25px;
+ font-size: 18px;
+ font-weight: normal;
+}
+
+.footer__column-heading {
+ line-height: 30px;
+ font-size: 18px;
+ font-weight: 600;
+}
+
+.footer__column-links {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+  margin-bottom: 16px;
+}
+
+.footer__column-link {
+  text-decoration: none;
+  color: white;
+  line-height: 30px;
+  font-size: 18px;
+  font-weight: normal;
+}
+
+.footer__social-icon {
+  width: 16px;
+  height: 16px;
+  margin-right: 10px;
 }
