@@ -139,53 +139,42 @@
 }
 
 .section-title {
+  width: 60%;
   margin: 0;
   padding: 0;
-  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
   line-height: 1.15;
   font-size: 60px;
   font-weight: 600;
 }
 
-.section-title_locaton_digits {
+.section-subtitle {
+  width: 60%;
+  margin: 0;
+  padding: 0;
+  margin-top: 20px;
   margin-left: auto;
   margin-right: auto;
   text-align: center;
-}
-
-.section-subtitle {
-  margin: 0;
-  padding: 0;
-  width: 60%;
   line-height:  34px;
   font-size: 24px;
   font-weight: normal;
 }
 
-.section-subtitle_locaton_digits {
-  margin-top: 20px;
+.table {
   margin-left: auto;
   margin-right: auto;
-  text-align: center;
-}
-
-.table {
   width: 1100px;
   display: flex;
   justify-content:space-between;
   flex-wrap: wrap;
   align-content: flex-end;
 }
-.table_locaton_digits {
-  margin-left: auto;
-  margin-right: auto;
-}
 
 .table__cell {
   width: 250px;
-}
-
-.table__cell_locaton_digits {
   margin-top: 60px;
 }
 
@@ -201,13 +190,10 @@
 .table__text {
   margin: 0;
   padding: 0;
+  margin-top: 20px;
   line-height:  1.2;
   font-size: 18px;
   font-weight: normal;
-}
-
-.table__text_margin {
-  margin-top: 20px;
 }
 
 /* Секция Фейман */
@@ -315,11 +301,16 @@
 }
 
 .kaufman__triangle {
+  box-sizing: border-box;
   width: 877px;
   height: 877px;
   position: absolute;
   right: -210px;
   top: 0;
+  background-image: url(.././images/kaufman-triangle.svg);
+  background-repeat: no-repeat;
+  background-position: left bottom;
+  background-size: 877px 877px;
 }
 
 /* Подвал сайта */
