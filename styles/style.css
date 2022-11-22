@@ -1,79 +1,19 @@
 
-
 /* Основное содержимое страницы */
-
-
-
-/* Секция Фейман */
-
 
 
 /* Секция Кауфман */
 
-.kaufman {
-  box-sizing: border-box;
-  background-color: #1f1f1f;
-  padding-top: 90px;
-  padding-bottom: 90px;
-  position: relative;
-  overflow: hidden;
-}
 
-.section-title_theme_dark {
-  color: white;
-  margin-left: auto;
-  margin-right: auto;
-  text-align: center;
-  z-index: 1;
-  position: relative;
-}
 
-.section-subtitle_theme_dark {
-  color: white;
-  margin-top: 20px;
-  margin-left: auto;
-  margin-right: auto;
-  text-align: center;
-  z-index: 1;
-}
 
-.table_theme_dark {
-  background-color: #1f1f1f;
-  color: white;
-  margin-left: auto;
-  margin-right: auto;
-  z-index: 1;
-}
 
-.table__cell_theme_dark {
-  width: 200px;
-  color: white;
-  margin-right: 0;
-  margin-top: 80px;
-  z-index: 1;
-}
 
-.table__heading_theme_dark {
-  color: white;
-}
 
-.table__text_theme_dark {
-  margin-top: 20px;
-  color: white;
-}
 
-.kaufman__triangle {
-  box-sizing: border-box;
-  width: 877px;
-  height: 877px;
-  position: absolute;
-  right: -210px;
-  top: 0;
-  background-image: url(.././images/kaufman-triangle.svg);
-  background-repeat: no-repeat;
-  background-position: left bottom;
-  background-size: 877px 877px;
-}
+
+
+
 
 /* Подвал сайта */
 
