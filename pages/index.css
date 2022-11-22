@@ -2,6 +2,10 @@
 
 @import url(../blocks/page/page.css);
 
+/* Анимация */
+
+@import url(../blocks/rotation/rotation.css);
+
 /* Шапка сайта */
 
 @import url(../blocks/header/header.css);
