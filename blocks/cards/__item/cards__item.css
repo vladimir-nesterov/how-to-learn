@@ -1,0 +1,12 @@
+.cards__item {
+  width: 240px;
+  margin-left: 100px;
+}
+
+.cards__item:first-child {
+  margin-left: 0;
+}
+
+.cards__item:nth-child(4n) {
+  margin-left: 0;
+}
