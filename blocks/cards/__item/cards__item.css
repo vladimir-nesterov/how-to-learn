@@ -3,10 +3,6 @@
   margin-left: 100px;
 }
 
-.cards__item:first-child {
-  margin-left: 0;
-}
-
-.cards__item:nth-child(4n) {
+.cards__item:nth-child(3n+1) {
   margin-left: 0;
 }
