@@ -1,0 +1,11 @@
+.khan__quote {
+  box-sizing: border-box;
+  display: block;
+  margin: 50px 0 0;
+  padding: 0;
+  width: 790px;
+  line-height:  34px;
+  font-size: 24px;
+  font-weight: normal;
+  font-style: normal;
+}
