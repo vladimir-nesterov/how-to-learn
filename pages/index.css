@@ -43,6 +43,10 @@
 @import url(../blocks/video/__iframes/video__iframes.css);
 @import url(../blocks/video/__iframe/video__iframe.css);
 
+/* Секция Оакли */
+
+@import url(../blocks/oakley/oakley.css);
+
 /* Секция Цифры */
 
 @import url(../blocks/digits/digits.css);
