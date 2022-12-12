@@ -2,8 +2,9 @@
 
 Страница о современных и эффективных подходах к обучению.
 
-[Посмотреть сайт "Научиться учиться"](https://how-to-learn-pi-one.vercel.app "Посмотреть сайт онлайн")
-[Посмотреть сайт "Научиться учиться"](https://vladimir-nesterov.github.io/how-to-learn/index.html "Посмотреть сайт онлайн")
+[Посмотреть сайт "Научиться учиться" (vercel)](https://how-to-learn-pi-one.vercel.app "Посмотреть сайт онлайн")
+
+[Посмотреть сайт "Научиться учиться" (github)](https://vladimir-nesterov.github.io/how-to-learn/index.html "Посмотреть сайт онлайн")
 
 
 ---
